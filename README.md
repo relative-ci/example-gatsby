@@ -8,6 +8,10 @@
   </a>
 </h1>
 
+<p align="center">
+  <a href="https://app.relative-ci.com/projects/PqaxqCUHsTMEg1aq30QX"><img src="https://badges.relative-ci.com/badges/PqaxqCUHsTMEg1aq30QX?branch=master" alt="relativeCI"></a>
+</p>
+
 > [@relative-ci/agent webpack plugin](https://github.com/relative-ci/agent) setup example for Gatsby & Gatsby Cloud
 
 ## 1. Installation
