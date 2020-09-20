@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://www.gatsbyjs.org">
-    <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="64" valign="middle" />
+    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg?sanitize=true" width="64" valign="middle" />
   </a>
   +
   <a href="https://relative-ci.com">
@@ -12,7 +12,7 @@
   <a href="https://app.relative-ci.com/projects/PqaxqCUHsTMEg1aq30QX"><img src="https://badges.relative-ci.com/badges/PqaxqCUHsTMEg1aq30QX?branch=master" alt="relativeCI"></a>
 </p>
 
-> [@relative-ci/agent webpack plugin](https://github.com/relative-ci/agent) setup example for Gatsby & Gatsby Cloud
+> [@relative-ci/agent](https://github.com/relative-ci/agent) [webpack plugin](https://relative-ci.com/documentation/setup/webpack-plugin) setup example for [Gatsby](https://www.gatsbyjs.com/docs/) and [Gatsby Cloud](https://www.gatsbyjs.com/cloud/)
 
 ## 1. Installation
 
@@ -37,4 +37,4 @@ exports.onCreateWebpackConfig = ({ stage, actions }) => {
 }
 ```
 
-To fully configure the service, follow the [setup instructions](https://relative-ci.com/documentation/setup).
+[Getting started with RelativeCI](https://relative-ci.com/documentation/setup).
