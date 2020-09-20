@@ -37,4 +37,5 @@ exports.onCreateWebpackConfig = ({ stage, actions }) => {
 }
 ```
 
-[Getting started with RelativeCI](https://relative-ci.com/documentation/setup).
+
+[Get started with RelativeCI](https://relative-ci.com/documentation/setup)
