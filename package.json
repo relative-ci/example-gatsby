@@ -20,7 +20,7 @@
   },
   "devDependencies": {
     "@relative-ci/agent": "1.4.0",
-    "prettier": "2.3.0"
+    "prettier": "2.8.8"
   },
   "keywords": [
     "gatsby"
